@@ -1,0 +1,11 @@
+﻿.swagger-section #header {
+    background-color: deepskyblue;
+}
+
+.swagger-section #header a#logo {
+    background: transparent url(/../Images/icon-cut-cost.png) no-repeat left;
+    background-size: contain;
+    padding: 10px 0 10px 60px;
+    font-size: 18px;
+    text-align: right;
+}
